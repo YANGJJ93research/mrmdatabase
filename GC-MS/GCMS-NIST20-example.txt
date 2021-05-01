@@ -1,0 +1,363 @@
+Name: 0,0-diethyl dimethylmonothionopyrophosphonate
+Formula: C6H16O4P2S
+MW: 246 Exact Mass: 246.024453 NIST#: 383781 ID#: 220826 DB: mainlib
+Contributor: Camille A. Boulet et al., Phosphorus, Sulfur, and Silicon. 1995. Vol. 104. pp. 96
+InChIKey: DNSXYZRDXBWQEH-UHFFFAOYSA-N   Non-stereo
+46 m/z Values and Intensities: 
+	43	44 |	45	50 |	47	173 |	49	39 |	63	89 |
+	65	61 |	77	78 |	78	78 |	79	602 |	80	95 |
+	81	44 |	94	61 |	95	457 |	96	117 |	97	429 |
+	111	78 |	112	44 |	123	122 |	124	95 |	125	117 |
+	126	55 |	137	61 |	138	39 |	139	39 |	141	44 |
+	143	145 |	157	217 |	158	44 |	159	385 |	161	39 |
+	171	44 |	173	201 |	174	122 |	175	89 |	187	714 |
+	188	50 |	189	95 |	190	999 |	191	55 |	192	55 |
+	201	72 |	202	251 |	218	323 |	219	44 |	246	279 |
+	247	39 |
+Synonyms: 
+no synonyms.
+
+AI predicted non-polar retention index (n-alkane scale): 
+Value: 1462 iu
+Confidence interval :  13(50%) 69(95%) iu
+
+Name: 1,4-Naphthalenedione, 2-amino-3-chloro-
+Formula: C10H6ClNO2
+MW: 207 Exact Mass: 207.008706 CAS#: 2797-51-5 NIST#: 135389 ID#: 200731 DB: mainlib
+Other DBs: Fine, RTECS, NIH, EINECS
+Contributor: NIST Mass Spectrometry Data Center, 1994
+InChIKey: OBLNWSCLAYSJJR-UHFFFAOYSA-N   Non-stereo
+84 m/z Values and Intensities: 
+	27	16 |	35	10 |	36	12 |	37	35 |	38	59 |
+	39	82 |	40	58 |	41	15 |	44	17 |	47	32 |
+	48	32 |	49	51 |	50	346 |	51	95 |	52	27 |
+	53	22 |	58	30 |	61	46 |	62	85 |	63	106 |
+	64	18 |	65	21 |	66	13 |	67	18 |	68	119 |
+	72	9 |	73	54 |	74	209 |	75	200 |	76	431 |
+	77	186 |	78	18 |	84	9 |	85	26 |	86	32 |
+	87	58 |	88	89 |	89	352 |	90	49 |	97	15 |
+	98	19 |	99	38 |	100	19 |	101	24 |	102	17 |
+	103	18 |	104	133 |	105	135 |	106	11 |	111	8 |
+	113	7 |	114	37 |	115	60 |	116	186 |	117	21 |
+	123	71 |	124	13 |	125	23 |	126	57 |	127	14 |
+	128	148 |	129	14 |	130	16 |	135	28 |	137	11 |
+	144	295 |	145	40 |	151	28 |	153	14 |	154	110 |
+	155	15 |	163	25 |	165	10 |	172	999 |	173	123 |
+	174	13 |	179	107 |	180	90 |	181	37 |	182	30 |
+	207	877 |	208	118 |	209	303 |	210	32 |
+Synonyms: 
+1.Quinoclamine
+2.ACN
+3.ACNQ
+4.2-Amino-3-chloronaphthoquinone
+5.2-Amino-3-chloro-1,4-naphthoquinone
+6.2-Chloro-3-amino-1,4-naphthoquinone
+7.3-Chloro-2-amino-1,4-naphthoquinone
+8.Mogeton
+9.1,4-Naphthoquinone, 2-amino-3-chloro-
+10.06K-Quinone
+11.O 6K-quinone
+12.Mogeton G
+13.Mogeton granule
+14.06K
+15.06K-50W
+16.NSC 3910
+17.NSC 642009
+
+Experimental RI median??deviation (#data) 
+Semi-standard non-polar:	1965??4 (4)
+
+Estimated non-polar retention index (n-alkane scale): 
+Value: 1891 iu
+Confidence interval (Diverse functional groups):  89(50%) 382(95%) iu
+
+AI predicted non-polar retention index (n-alkane scale): 
+Value: 2011 iu
+Confidence interval :  13(50%) 69(95%) iu
+
+Retention index. 
+1. Value: 1974 iu
+Column Type: Capillary
+Column Class: Semi-standard non-polar
+Active Phase: DB-5MS
+Column Length: 30 m
+Column Diameter: 0.32 mm
+Phase Thickness: 0.25 um
+Data Type: Kovats RI
+Program Type: Complex
+Description: 50 C(1min)->20C/min->200C->10C/min->280C (1.5min)
+Source: Tanabe, A.; Mitobe, H.; Kawata, K.; Sakai, M., Monitoring of herbicides in river water by gas chromatography-mass spectrometry and solid-phase extraction, J. Chromatogr. A, 754, 1996, 159-168.
+
+2. Value: 1961 iu
+Column Type: Capillary
+Column Class: Semi-standard non-polar
+Active Phase: HP-5
+Column Length: 30 m
+Column Diameter: 0.32 mm
+Phase Thickness: 0.25 um
+Data Type: Kovats RI
+Program Type: Complex
+Description: 50C(1min)=>20C/min=>150C=>10C/min=>280C(4min)
+Source: Tanabe, A.; Mitobe, H.; Kawata, K.; Sakai, M.; Yasuhara, A., New monitoring system for ninety pesticides and related compounds in river water by solid-phase extraction with determination by gas chromatography/mass spectrometry, J. AOAC Int., 83(1), 2000, 61-77.
+
+<...>
+Name: 1,4-Naphthalenedione, 2-amino-3-chloro-
+Formula: C10H6ClNO2
+MW: 207 Exact Mass: 207.008706 CAS#: 2797-51-5 NIST#: 135389 ID#: 200731 DB: mainlib
+Other DBs: Fine, RTECS, NIH, EINECS
+Contributor: NIST Mass Spectrometry Data Center, 1994
+InChIKey: OBLNWSCLAYSJJR-UHFFFAOYSA-N   Non-stereo
+84 m/z Values and Intensities: 
+	27	16 |	35	10 |	36	12 |	37	35 |	38	59 |
+	39	82 |	40	58 |	41	15 |	44	17 |	47	32 |
+	48	32 |	49	51 |	50	346 |	51	95 |	52	27 |
+	53	22 |	58	30 |	61	46 |	62	85 |	63	106 |
+	64	18 |	65	21 |	66	13 |	67	18 |	68	119 |
+	72	9 |	73	54 |	74	209 |	75	200 |	76	431 |
+	77	186 |	78	18 |	84	9 |	85	26 |	86	32 |
+	87	58 |	88	89 |	89	352 |	90	49 |	97	15 |
+	98	19 |	99	38 |	100	19 |	101	24 |	102	17 |
+	103	18 |	104	133 |	105	135 |	106	11 |	111	8 |
+	113	7 |	114	37 |	115	60 |	116	186 |	117	21 |
+	123	71 |	124	13 |	125	23 |	126	57 |	127	14 |
+	128	148 |	129	14 |	130	16 |	135	28 |	137	11 |
+	144	295 |	145	40 |	151	28 |	153	14 |	154	110 |
+	155	15 |	163	25 |	165	10 |	172	999 |	173	123 |
+	174	13 |	179	107 |	180	90 |	181	37 |	182	30 |
+	207	877 |	208	118 |	209	303 |	210	32 |
+Synonyms: 
+1.Quinoclamine
+2.ACN
+3.ACNQ
+4.2-Amino-3-chloronaphthoquinone
+5.2-Amino-3-chloro-1,4-naphthoquinone
+6.2-Chloro-3-amino-1,4-naphthoquinone
+7.3-Chloro-2-amino-1,4-naphthoquinone
+8.Mogeton
+9.1,4-Naphthoquinone, 2-amino-3-chloro-
+10.06K-Quinone
+11.O 6K-quinone
+12.Mogeton G
+13.Mogeton granule
+14.06K
+15.06K-50W
+16.NSC 3910
+17.NSC 642009
+
+Experimental RI median??deviation (#data) 
+Semi-standard non-polar:	1965??4 (4)
+
+Estimated non-polar retention index (n-alkane scale): 
+Value: 1891 iu
+Confidence interval (Diverse functional groups):  89(50%) 382(95%) iu
+
+AI predicted non-polar retention index (n-alkane scale): 
+Value: 2011 iu
+Confidence interval :  13(50%) 69(95%) iu
+
+Retention index. 
+1. Value: 1974 iu
+Column Type: Capillary
+Column Class: Semi-standard non-polar
+Active Phase: DB-5MS
+Column Length: 30 m
+Column Diameter: 0.32 mm
+Phase Thickness: 0.25 um
+Data Type: Kovats RI
+Program Type: Complex
+Description: 50 C(1min)->20C/min->200C->10C/min->280C (1.5min)
+Source: Tanabe, A.; Mitobe, H.; Kawata, K.; Sakai, M., Monitoring of herbicides in river water by gas chromatography-mass spectrometry and solid-phase extraction, J. Chromatogr. A, 754, 1996, 159-168.
+
+2. Value: 1961 iu
+Column Type: Capillary
+Column Class: Semi-standard non-polar
+Active Phase: HP-5
+Column Length: 30 m
+Column Diameter: 0.32 mm
+Phase Thickness: 0.25 um
+Data Type: Kovats RI
+Program Type: Complex
+Description: 50C(1min)=>20C/min=>150C=>10C/min=>280C(4min)
+Source: Tanabe, A.; Mitobe, H.; Kawata, K.; Sakai, M.; Yasuhara, A., New monitoring system for ninety pesticides and related compounds in river water by solid-phase extraction with determination by gas chromatography/mass spectrometry, J. AOAC Int., 83(1), 2000, 61-77.
+
+<...>
+Name: 1,4-Naphthalenedione, 2-amino-3-chloro-
+Formula: C10H6ClNO2
+MW: 207 Exact Mass: 207.008706 CAS#: 2797-51-5 NIST#: 135389 ID#: 200731 DB: mainlib
+Other DBs: Fine, RTECS, NIH, EINECS
+Contributor: NIST Mass Spectrometry Data Center, 1994
+InChIKey: OBLNWSCLAYSJJR-UHFFFAOYSA-N   Non-stereo
+84 m/z Values and Intensities: 
+	27	16 |	35	10 |	36	12 |	37	35 |	38	59 |
+	39	82 |	40	58 |	41	15 |	44	17 |	47	32 |
+	48	32 |	49	51 |	50	346 |	51	95 |	52	27 |
+	53	22 |	58	30 |	61	46 |	62	85 |	63	106 |
+	64	18 |	65	21 |	66	13 |	67	18 |	68	119 |
+	72	9 |	73	54 |	74	209 |	75	200 |	76	431 |
+	77	186 |	78	18 |	84	9 |	85	26 |	86	32 |
+	87	58 |	88	89 |	89	352 |	90	49 |	97	15 |
+	98	19 |	99	38 |	100	19 |	101	24 |	102	17 |
+	103	18 |	104	133 |	105	135 |	106	11 |	111	8 |
+	113	7 |	114	37 |	115	60 |	116	186 |	117	21 |
+	123	71 |	124	13 |	125	23 |	126	57 |	127	14 |
+	128	148 |	129	14 |	130	16 |	135	28 |	137	11 |
+	144	295 |	145	40 |	151	28 |	153	14 |	154	110 |
+	155	15 |	163	25 |	165	10 |	172	999 |	173	123 |
+	174	13 |	179	107 |	180	90 |	181	37 |	182	30 |
+	207	877 |	208	118 |	209	303 |	210	32 |
+Synonyms: 
+1.Quinoclamine
+2.ACN
+3.ACNQ
+4.2-Amino-3-chloronaphthoquinone
+5.2-Amino-3-chloro-1,4-naphthoquinone
+6.2-Chloro-3-amino-1,4-naphthoquinone
+7.3-Chloro-2-amino-1,4-naphthoquinone
+8.Mogeton
+9.1,4-Naphthoquinone, 2-amino-3-chloro-
+10.06K-Quinone
+11.O 6K-quinone
+12.Mogeton G
+13.Mogeton granule
+14.06K
+15.06K-50W
+16.NSC 3910
+17.NSC 642009
+
+Experimental RI median??deviation (#data) 
+Semi-standard non-polar:	1965??4 (4)
+
+Estimated non-polar retention index (n-alkane scale): 
+Value: 1891 iu
+Confidence interval (Diverse functional groups):  89(50%) 382(95%) iu
+
+AI predicted non-polar retention index (n-alkane scale): 
+Value: 2011 iu
+Confidence interval :  13(50%) 69(95%) iu
+
+Retention index. 
+1. Value: 1974 iu
+Column Type: Capillary
+Column Class: Semi-standard non-polar
+Active Phase: DB-5MS
+Column Length: 30 m
+Column Diameter: 0.32 mm
+Phase Thickness: 0.25 um
+Data Type: Kovats RI
+Program Type: Complex
+Description: 50 C(1min)->20C/min->200C->10C/min->280C (1.5min)
+Source: Tanabe, A.; Mitobe, H.; Kawata, K.; Sakai, M., Monitoring of herbicides in river water by gas chromatography-mass spectrometry and solid-phase extraction, J. Chromatogr. A, 754, 1996, 159-168.
+
+2. Value: 1961 iu
+Column Type: Capillary
+Column Class: Semi-standard non-polar
+Active Phase: HP-5
+Column Length: 30 m
+Column Diameter: 0.32 mm
+Phase Thickness: 0.25 um
+Data Type: Kovats RI
+Program Type: Complex
+Description: 50C(1min)=>20C/min=>150C=>10C/min=>280C(4min)
+Source: Tanabe, A.; Mitobe, H.; Kawata, K.; Sakai, M.; Yasuhara, A., New monitoring system for ninety pesticides and related compounds in river water by solid-phase extraction with determination by gas chromatography/mass spectrometry, J. AOAC Int., 83(1), 2000, 61-77.
+
+<...>
+Name: 2-Butanone, 4-(4-hydroxy-3-methoxyphenyl)-
+Formula: C11H14O3
+MW: 194 Exact Mass: 194.094295 CAS#: 122-48-5 NIST#: 8502 ID#: 154129 DB: mainlib
+Other DBs: TSCA, RTECS, HODOC, NIH, EINECS, IRDB
+Contributor: W. KELLY UNILEVER RESEARCH COLWORTH/WELWYN, BEDFORD U.K.
+InChIKey: OJYLAHXKWMRDGS-UHFFFAOYSA-N   Non-stereo
+47 m/z Values and Intensities: 
+	39	55 |	41	15 |	42	6 |	43	310 |	50	11 |
+	51	51 |	52	31 |	53	30 |	55	33 |	63	20 |
+	64	7 |	65	50 |	66	20 |	77	67 |	78	19 |
+	79	35 |	80	11 |	81	10 |	90	4 |	91	130 |
+	92	12 |	93	4 |	94	42 |	105	22 |	106	10 |
+	107	39 |	108	12 |	109	16 |	119	150 |	120	21 |
+	122	65 |	123	10 |	124	61 |	133	12 |	135	25 |
+	136	20 |	137	999 |	138	100 |	147	10 |	150	10 |
+	151	160 |	152	15 |	161	8 |	163	5 |	179	24 |
+	194	460 |	195	43 |
+Synonyms: 
+1.(4-Hydroxy-3-methoxyphenyl)ethyl methyl ketone
+2.[0]-Paradol
+3.Vanillylacetone
+4.Zingerone
+5.Zingiberone
+6.3-Methoxy-4-hydroxybenzylacetone
+7.4-(4-Hydroxy-3-methoxyphenyl)-2-butanone
+8.4-Hydroxy-3-methoxybenzylacetone
+9.Gingerone
+10.NSC 15335
+
+Experimental RI median??deviation (#data) 
+Semi-standard non-polar:	1648??4 (8)
+Standard non-polar:     	1625??9 (6)
+Polar:                  	2786??15 (11)
+
+Estimated non-polar retention index (n-alkane scale): 
+Value: 1638 iu
+Confidence interval (Diverse functional groups):  89(50%) 382(95%) iu
+
+AI predicted non-polar retention index (n-alkane scale): 
+Value: 1654 iu
+Confidence interval :  13(50%) 69(95%) iu
+
+Retention index. 
+1. Value: 1651 iu
+Column Type: Capillary
+Column Class: Semi-standard non-polar
+Active Phase: Rxi-5SilMS
+Column Leng30 m
+Carrier Gas: He
+Column Diameter: 0.25 mm
+Phase Thickness: 0.25 um
+Data Type: Linear RI
+Program Type: Ramp
+Start T: 50 C
+End T: 300 C
+Heat Rate: 10 K/min
+Start Time: 1 min
+End Time: 20 min
+Source: Andriamaharavo, N.R., Retention Data (second set). NIST Mass Spectrometry Data Center., 2014.
+
+2. Value: 1640 iu
+Column Type: Capillary
+Column Class: Semi-standard non-polar
+Active Phase: DB-5
+Column Length: 30 m
+Column Diameter: 0.25 mm
+Data Type: Normal alkane RI
+Program Type: Ramp
+Source: Garneau, F.X.; Bouhajib, M.; Collin, G.J.; Gagnon, M.; ApSimon, J.W., The glycosidically bound volatile compounds of Picea mariana (Mill.) B.S.P., J. Essent. Oil Res., 6, 1994, 43-46.
+
+<...>
+Name: 2H-[1,3]oxazino[3,2-a]indole, 3,4,10,10a-tetrahydro-10,10,10a-trimethyl-
+Formula: C14H19NO
+MW: 217 Exact Mass: 217.146665 NIST#: 403046 ID#: 232894 DB: mainlib
+Contributor: J. Little, Eastman chemical company.
+InChIKey: VWFLHUSSSXMNIF-UHFFFAOYSA-N   Non-stereo
+62 m/z Values and Intensities: 
+	27	60 |	29	28 |	31	31 |	39	84 |	41	71 |
+	43	88 |	50	29 |	51	69 |	52	23 |	53	21 |
+	63	43 |	65	42 |	75	27 |	76	28 |	77	136 |
+	78	48 |	89	39 |	91	118 |	101	33 |	102	50 |
+	103	90 |	115	129 |	116	54 |	117	119 |	118	100 |
+	128	58 |	129	36 |	130	226 |	131	139 |	132	153 |
+	143	109 |	144	311 |	145	117 |	146	557 |	147	69 |
+	156	51 |	157	55 |	158	544 |	159	174 |	160	71 |
+	161	94 |	170	39 |	171	35 |	172	394 |	173	241 |
+	174	408 |	175	58 |	184	171 |	185	32 |	186	68 |
+	187	204 |	188	49 |	199	64 |	200	49 |	201	24 |
+	202	999 |	203	185 |	204	104 |	216	92 |	217	612 |
+	218	104 |	219	82 |
+Synonyms: 
+1.10,10,10a-trimethyl-3,4,10,10a-tetrahydro-2H-[1,3]oxazino[3,2-a]indole
+
+Estimated non-polar retention index (n-alkane scale): 
+Value: 1677 iu
+Confidence interval (Diverse functional groups):  89(50%) 382(95%) iu
+
+AI predicted non-polar retention index (n-alkane scale): 
+Value: 1619 iu
+Confidence interval :  13(50%) 69(95%) iu
