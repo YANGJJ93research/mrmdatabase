@@ -1,0 +1,43 @@
+,,ID,CAS, Ec50 (um) ,,smiles
+0,Tetrabromo bisphenol A,TBBPA,79-94-7,4.5,,CC(C)(C1=CC(=C(C(=C1)Br)O)Br)C2=CC(=C(C(=C2)Br)O)Br
+1,"Tris(1,3-dichloro-2-propyl)phosphate",TDCPP,13674-87-8,650.58,,C(C(CCl)OP(=O)(OC(CCl)CCl)OC(CCl)CCl)Cl
+2,Triphenyl phosphate,TPP,115-86-6,459.41,,C1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=CC=CC=C3
+3,Benzyl Butyl Phthalate,BBP,85-68-7,4.1,,CCCCOC(=O)C1=CC=CC=C1C(=O)OCC2=CC=CC=C2
+4,Methyl paraben,MP,99-76-3,220.65,,COC(=O)C1=CC=C(C=C1)O
+5,Butyl paraben,BP,94-26-8,116.6,,CCCCOC(=O)C1=CC=C(C=C1)O
+6,4-Nonylphenol,4-NP,104-40-5,39.81,,CCCCCCCCCC1=CC=C(C=C1)O
+7,Sodium benzoate,SB,532-32-1,"2,362.11",,C1=CC=C(C=C1)C(=O)[O-]
+8,Perfluorohexane sulfonic acid,PFHxS,355-46-4,481.06,,C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F
+9,Perfluoroheptanesulfonic acid,PFHpS,375-92-8,313.04,,C(C(C(C(F)(F)F)(F)F)(F)F)(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F
+10,Perfluorooctanesulfonic acid,PFOS,1763-23-1,127.85,,C(C(C(C(C(F)(F)S(=O)(=O)O)(F)F)(F)F)(F)F)(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+11,Perfluorodecanoic acid,PFDA,335-76-2,535.67,,C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
+12,Perfluoroundecanoic acid,PFUnA,2058-94-8,123.34,,C(=O)(C(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O
+13,Bisphenol A,BPA,080-05-7,2.29,,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+14,Bisphenol P,BPP,2167-51-3,4.57,,CC(C)(C1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)O)C3=CC=C(C=C3)O
+15,Bisphenol AP,BPAP,1571-75-1,3.55,,CC(C1=CC=CC=C1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O
+16,Bisphenol BP,BPBP,1844-01-5,11.66,,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O
+17,Bisphenol E,BPE,02081-8-5,9.03,,CC(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+18,Bisphenol A diglycidyl ether,BPADGE,1675-54-3,15.37,,CC(C)(C1=CC=C(C=C1)OCC2CO2)C3=CC=C(C=C3)OCC4CO4
+19,Bisphenol G,BPG,127-54-8,17.92,,CC(C)C1=C(C=CC(=C1)C(C)(C)C2=CC(=C(C=C2)O)C(C)C)O
+20,Bisphenol C-dichloride,BPC-dichloride,14868-03-2,9.26,,C1=CC(=CC=C1C(=C(Cl)Cl)C2=CC=C(C=C2)O)O
+21,Bisphenol B,BPB,77-40-7,14.02,,CCC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O
+22,Bisphenol M,BPM,13595-25-0,11.66,,CC(C)(C1=CC=C(C=C1)O)C2=CC(=CC=C2)C(C)(C)C3=CC=C(C=C3)O
+23,Bisphenol F,BPF,620-92-8,17.38,,C1=CC(=CC=C1CC2=CC=C(C=C2)O)O
+24,Bisphenol AF,BPAF,1478-61-1,12.3,,C1=CC(=CC=C1C(C2=CC=C(C=C2)O)(C(F)(F)F)C(F)(F)F)O
+25,Bisphenol TMC,BP-TMC,129188-99-4,12.59,,CC1CC(CC(C1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O)(C)C
+26,Bisphenol Z,BPZ,843-55-0,14.45,,C1CCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O
+27,Bisphenol C,BPC,79-97-0,26.3,,CC1=C(C=CC(=C1)C(C)(C)C2=CC(=C(C=C2)O)C)O
+28,Bisphenol PH,BPPH,24038-68-4,23.99,,CC(C)(C1=CC(=C(C=C1)O)C2=CC=CC=C2)C3=CC(=C(C=C3)O)C4=CC=CC=C4
+29,Taurocholic acid ,TCA,145-42-6,524.81,,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C
+30,Taurochenodeoxycholic acid,TCDCA,516-35-8,73.57,,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C
+31,Glycochenodeoxycholic acid ,GCDCA,640-79-9,450.09,,CC(CCC(=O)NCC(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C
+32,Cholate,CA,81-25-4,"2,362.11",,CC(CCC(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C
+33,Glycodeoxycholic acid,GDOC,360-65-6,275.42,,CC(CCC(=O)NCC(=O)O)C1CCC2C1(C(CC3C2CCC4C3(CCC(C4)O)C)O)C
+34,Taurodeoxycholic acid,TDCA,516-50-7,186.68,,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(C(CC3C2CCC4C3(CCC(C4)O)C)O)C
+35,Chenodeoxycholic acid,CDCA,474-25-9,121.45,,CC(CCC(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C
+36,Deoxycholic acid,DCA,83-44-3,127.85,,CC(CCC(=O)O)C1CCC2C1(C(CC3C2CCC4C3(CCC(C4)O)C)O)C
+37,Taurolithocholic acid,TLCA,516-90-5,211.06,,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
+38,Glycocholic acid,GC,475-31-0,"1,584.89",,CC(CCC(=O)NCC(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C
+39,Lithocholic acid,LCA,434-13-9,181.05,,CC(CCC(=O)O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
+40,Triclosan ,TCS,3380-34-5 ,0,,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl
+41,Ethanol,EtOH,64-17-5,0,,CCO
